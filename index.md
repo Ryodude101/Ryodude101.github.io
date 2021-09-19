@@ -1,4 +1,11 @@
 # Ryan is cool
 
-the page has updated
+Attempt ten million
+
+```markdown
+---
+layout: forward
+target: https://www.google.com
+---
+```
 
