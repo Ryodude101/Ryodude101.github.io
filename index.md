@@ -1,11 +1,6 @@
 # Ryan is cool
 
-Attempt ten million
+New Page!
 
-```markdown
----
-layout: forward
-target: https://www.google.com
----
-```
+[forward.html](forward)
 
