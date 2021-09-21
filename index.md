@@ -1,6 +1,4 @@
-# Ryan is cool
-
 New Page!
 
-[forward.html](forward)
+[Can I just put any text here?](forward)
 
